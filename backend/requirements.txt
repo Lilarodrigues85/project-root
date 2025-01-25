@@ -1,0 +1,6 @@
+langchain
+openai
+flask
+flask-cors
+requests
+beautifulsoup4
